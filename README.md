@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Charbel 👋
 
-<!--
-**itscharbel/itscharbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in AI & Multimedia at the University of Udine. I come from a design background and I'm slowly turning into more of an engineer, mostly because I really like building things: sometimes useful, sometimes just because.
 
-Here are some ideas to get you started:
+These days I'm exploring **machine learning and computer vision**, working on multimodal ML research at a university lab, and figuring things out one project (and one rabbit hole) at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 What I'm up to
+- Studying **AI, Industrial Automation & IoT**
+- Exploring **multimodal learning and sensor fusion** through research at the lab
+- Building side projects involving apps, hardware, and 3D
+
+### 🌱 Outside of code
+🖨️ **3D printing & modelling** · 🏃 **running** · 🎧 **DJing** acid-oriental and pan-Arab sounds, forever digging for records (send over your favorite tune) · 🏠 automating things that absolutely didn't need automating 
+
+### 🛠️ Stack (the honest version)
+Python · PyTorch · Flutter · Arduino · Three.js · GSAP · Cinema 4D · TouchDesigner · Marvelous Designer
+
+Plus Photoshop, Illustrator & InDesign, because design-school habits die hard.
+
+### 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charbel-abou-haidar-6a4663187/)
